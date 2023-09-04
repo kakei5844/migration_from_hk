@@ -14,12 +14,17 @@ This Python script retrieves and analyzes daily passenger traffic data from the 
 1. Clone the repository or download the script file.
 
 2. Install the required dependencies by running the following command:
-```
-pip install pandas requests matplotlib
-```
 
-scheme
-Copy
+  ```
+  pip install pandas requests matplotlib
+  ```
+
+  or
+
+  ```
+  pip install -r requirements.txt
+  ```
+
 
 ## Usage
 
